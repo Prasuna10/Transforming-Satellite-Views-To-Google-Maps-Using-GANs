@@ -1,0 +1,25 @@
+   1 python -m venv env
+   2 env/scripts/activate or source env/Scripts/activate
+   3 pip install django djangorestframework djongo
+   4 python.exe -m pip install --upgrade pip
+   5 django-admin startproject event_finder_project
+   6 cd event_finder_project
+   7 pip install django
+   8 pip install djangorestframework
+   9 pip install drf-extensions
+  10 python -m django --version...
+  11 python -m pip show djangorestframework
+  12 python manage.py startapp event_manager
+  13 python manage.py makemigrations
+  14 cd event_manager
+  15 python manage.py makemigrations
+  16 pip install djangorestframework
+  17 python manage.py makemigrations
+  18 cd ..
+  19 python manage.py makemigrations
+  20 pip install djongo
+  21 python manage.py makemigrations
+  22 python manage.py runserver
+  23 python manage.py migrate
+  24 python manage.py createsuperuser
+  25 python manage.py runserver
