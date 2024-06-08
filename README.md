@@ -3,8 +3,7 @@ Conversion Of Satellite Images to Google Maps Using Gans:-
 
 Generator Architecture Of Conditional Gan ![generator](https://github.com/Prasuna10/Transforming-Satellite-Views-To-Google-Maps-Using-GANs/assets/96649154/d3e0f998-2703-4801-b6f2-c0f04fcd3dba) 
 
-Descrimintator Architecture Of Conditional Gan:
-![descriminator](https://github.com/Prasuna10/Transforming-Satellite-Views-To-Google-Maps-Using-GANs/assets/96649154/197ce7e9-8819-4c6c-b183-31105358730f)
+Descrimintator Architecture Of Conditional Gan:![descriminator](https://github.com/Prasuna10/Transforming-Satellite-Views-To-Google-Maps-Using-GANs/assets/96649154/197ce7e9-8819-4c6c-b183-31105358730f)
 
 Comparison between CNN AND CGAN Results:
 CNN RESULTS:
