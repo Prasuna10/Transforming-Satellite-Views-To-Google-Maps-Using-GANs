@@ -15,6 +15,3 @@ User can upload images through front end
 
 The uploaded image is viewable in the same webpage in front-end
 
-Deployed and publicly accessible - https://sumeetgo.pythonanywhere.com/uploader
-
-Youtube Solution Link - https://youtu.be/0LjgfzVD774
