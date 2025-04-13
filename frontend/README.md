@@ -1,5 +1,4 @@
-# YouFrame
-Full-stack online photo-sharing application
+# Framework
 
 Framework - Flask
 
@@ -11,7 +10,7 @@ On successful upload, this new photo appears at the 1st tile, shifting all other
 
 Displays only image formats - jpg, jpeg, png
 
-User can upload images through front end
+User can upload images through front end and can delete it
 
 The uploaded image is viewable in the same webpage in front-end
 
