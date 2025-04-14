@@ -47,25 +47,6 @@ FRONTEND CONVERSION:
 
 ![fronend](https://github.com/Prasuna10/Transforming-Satellite-Views-To-Google-Maps-Using-GANs/assets/96649154/8e89399d-12d4-43b0-9f9d-2181b8e73ca7)
 
-project_directory/
-├── app.py                    # Main Flask application file
-├── backend/                  # Folder containing the model scripts
-│   ├── cgan_final.py         # Script for Conditional GAN model
-│   ├── cnn_final.py          # Script for CNN model (likely used in the prediction process)
-├── frontend/                 # Folder for frontend-related files (templates, static assets)
-│   ├── static/               # Folder containing static assets like images, styles, and uploads
-│   │   ├── uploads/          # Folder where uploaded images are stored
-│   │   ├── uploader/         # Folder for storing images or assets related to file uploading
-│   │   ├── styles/           # Folder containing CSS files for styling
-│   │   ├── predicted/        # Folder for saving predicted images (output from the model)
-│   │   ├── image.jpg         # Background or other images used in the app
-│   │   ├── image_1.jpg       # Another image, possibly a sample or background
-│   │   ├── logo.jpg          # Logo image used in the app
-│   ├── templates/            # Folder containing HTML files (login.html, index.html)
-│   │   ├── login.html        # Login page HTML template
-│   │   ├── index.html        # Main index page HTML template
-├── incorrect.png             # Image for error handling (likely used for showing incorrect predictions)
-├── LICENSE                   # Project's license file
-├── README.md                 # Project's readme file (documentation)
+
 
 
